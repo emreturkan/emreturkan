@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm using React
+I'm using React and Next
 
 * 🌍  I'm based in İstanbul, Turkey
 * ✉️  You can contact me at [emreturkan10@gmail.com](mailto:emreturkan10@gmail.com)
