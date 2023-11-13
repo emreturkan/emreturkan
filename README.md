@@ -8,7 +8,7 @@ I'm using React and Next
 
 * 🌍  I'm based in İstanbul, Turkey
 * ✉️  You can contact me at [emreturkan10@gmail.com](mailto:emreturkan10@gmail.com)
-* 🧠  I'm learning Three.js
+
 
 ### Skills
 
