@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm using React and Next<br>🌍  I'm based in İstanbul, Turkey<br>✉️  You can contact me at emreturkan10@gmail.com</p>
+<p align="left">✨ I'm using React and Next<br>🌍  I'm based in İstanbul, Turkey<br>✉️  You can contact me at emreturkan10@gmail.com <br> 👨🏻‍💻Visit my website emreturkan.com</p>
 
 ###
 
