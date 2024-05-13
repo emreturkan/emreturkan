@@ -55,8 +55,10 @@
 
 ###
 
-[![emreturkan's GitHub | Stats](https://stats.quine.sh/emreturkan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=emreturkan)
-[![emreturkan's GitHub | Topics Over Time](https://stats.quine.sh/emreturkan/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=emreturkan)
+<div>
+  [![emreturkan's GitHub | Stats](https://stats.quine.sh/emreturkan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=emreturkan)
+  [![emreturkan's GitHub | Languages Over Time](https://stats.quine.sh/emreturkan/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=emreturkan)
+</div>
 
 
 <div align="center">
